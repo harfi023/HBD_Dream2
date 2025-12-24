@@ -1,0 +1,33 @@
+index.html<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Ucapan Spesial 🎉</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #ff758c, #ff7eb3);
+      font-family: Arial, sans-serif;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+    }
+    .box {
+      background: white;
+      padding: 30px;
+      border-radius: 15px;
+      text-align: center;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+    }
+    h1 { color: #ff3d68; }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>🎂 Selamat Ulang Tahun 🎉</h1>
+    <p>Semoga sehat selalu, panjang umur, dan bahagia selalu 💖</p>
+    <p><b>– Dari aku 😊</b></p>
+  </div>
+</body>
+</html>
